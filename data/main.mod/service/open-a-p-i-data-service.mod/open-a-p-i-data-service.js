@@ -2,7 +2,7 @@ const RawDataService = require("mod/data/service/raw-data-service").RawDataServi
     Montage = require('mod/core/core').Montage,
     //SyntaxInOrderIterator = (require)("mod/core/frb/syntax-iterator").SyntaxInOrderIterator,
     DataOperation = require("mod/data/service/data-operation").DataOperation;
-var rawlient;
+var rawClient;
 
     /*
         https://github.com/swagger-api/swagger-js?tab=readme-ov-file
